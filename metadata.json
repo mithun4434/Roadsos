@@ -1,0 +1,8 @@
+{
+  "name": "RoadSOS",
+  "description": "Emergency roadside assistance platform with a premium liquid glass UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
